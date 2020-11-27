@@ -11,4 +11,4 @@ Css box shadow generator app developed using ReactJS.
 
 ## Project Used:
 
-![Click Here To Preview](https://ali-tahir4024.github.io/css-box-shadow-generator-app/)
+[Click Here To Preview](https://ali-tahir4024.github.io/css-box-shadow-generator-app/)
