@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/css-box-shadow-generator-app/static/css/main.88536d81.chunk.css",
-    "main.js": "/css-box-shadow-generator-app/static/js/main.844a70cf.chunk.js",
-    "main.js.map": "/css-box-shadow-generator-app/static/js/main.844a70cf.chunk.js.map",
+    "main.js": "/css-box-shadow-generator-app/static/js/main.e48afd2b.chunk.js",
+    "main.js.map": "/css-box-shadow-generator-app/static/js/main.e48afd2b.chunk.js.map",
     "runtime-main.js": "/css-box-shadow-generator-app/static/js/runtime-main.693be7bb.js",
     "runtime-main.js.map": "/css-box-shadow-generator-app/static/js/runtime-main.693be7bb.js.map",
     "static/js/2.922775c9.chunk.js": "/css-box-shadow-generator-app/static/js/2.922775c9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.693be7bb.js",
     "static/js/2.922775c9.chunk.js",
     "static/css/main.88536d81.chunk.css",
-    "static/js/main.844a70cf.chunk.js"
+    "static/js/main.e48afd2b.chunk.js"
   ]
 }
