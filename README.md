@@ -7,6 +7,7 @@ Css box shadow generator app developed using ReactJS.
 * HTML.
 * CSS.
 * ReactJS.
+* React-Hooks.
 * Material-UI.
 
 ## Project Preview:
