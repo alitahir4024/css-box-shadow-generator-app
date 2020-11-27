@@ -33,7 +33,7 @@ function Output({
         <CopyToClipboard
           onCopy={copyFunction}
           text={
-            copyValue
+            `${copyValue}`
               ? `${
                   InsetValue ? "inset" : ""
                 } ${horinzontalLengthValue}px ${verticalLengthValue}px ${blurValue}px ${spreadValue}px ${ShadowColorValue}`
